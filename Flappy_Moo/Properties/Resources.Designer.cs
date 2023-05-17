@@ -63,15 +63,6 @@ namespace Flappy_Moo.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream bgAudio {
-            get {
-                return ResourceManager.GetStream("bgAudio", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
-        /// </summary>
         internal static System.IO.UnmanagedMemoryStream Cow_moo {
             get {
                 return ResourceManager.GetStream("Cow_moo", resourceCulture);

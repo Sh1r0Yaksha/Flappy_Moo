@@ -11,7 +11,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Assets\bgAudio.wav" />
     <None Remove="Assets\Cow_moo.wav" />
     <None Remove="Assets\Right_Down.png" />
     <None Remove="Assets\Right_Up.png" />
@@ -23,7 +22,6 @@
 
   <ItemGroup>
     <Resource Include="Assets\Cow_moo.wav" />
-    <Resource Include="Assets\bgAudio.wav" />
     <Resource Include="Assets\Right_Down.png" />
     <Resource Include="Assets\Right_Up.png" />
   </ItemGroup>
